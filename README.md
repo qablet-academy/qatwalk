@@ -1,3 +1,4 @@
+This project has moved to a [new organization](https://github.com/qatwalk/eq)
 
 **QATWALK** welcomes all models - the jumps, the roughs, and fat tails...
 
